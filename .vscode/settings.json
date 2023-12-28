@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "STC15W.H": "cpp",
+        "led3.h": "c",
+        "STCEEPROM.C": "cpp",
+        "STCEEPROM.H": "cpp",
+        "config.h": "c",
+        "LED3.C": "cpp",
+        "LED3.H": "cpp",
+        "key.h": "c",
+        "__bit_reference": "c",
+        "algorithm": "c",
+        "bitset": "c",
+        "chrono": "c",
+        "unordered_map": "c"
+    }
+}
