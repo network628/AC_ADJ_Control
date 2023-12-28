@@ -9,7 +9,7 @@ float FtimeMin;
 
 void INT1s() interrupt 2 using 3 // 50HZ_INT1的中断服务函数
 {
-	hot_time = 260;
+	hot_time = 300;
 
 	if (Light.sw_flag)
 	{ //
